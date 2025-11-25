@@ -1,7 +1,7 @@
 https://jumpshare.com/s/aK5cqvKeORKN5Fwh2fQw ====== ВЕРХНИЕ 2 ГИФКИ ====== -->
 
 <p align="center">
-  <img src="0https://jumpshare.com/s/aK5cqvKeORKN5Fwh2fQw" width="200" />
+  <img src="https://jumpshare.com/s/aK5cqvKeORKN5Fwh2fQw" width="200" />
   <img src="https://media.giphy.com/media/l0HlHFRbmaZtBRhXG/giphy.gif" width="260" />
 </p>
 
