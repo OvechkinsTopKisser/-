@@ -1,7 +1,7 @@
 https://jumpshare.com/s/aK5cqvKeORKN5Fwh2fQw ====== ВЕРХНИЕ 2 ГИФКИ ====== -->
 
 <p align="center">
-  <img src="https://jumpshare.com/s/aK5cqvKeORKN5Fwh2fQw" width="260" />
+  <img src="https://jumpshare.com/s/aK5cqvKeORKN5Fwh2fQw" width="200" />
   <img src="URL_ТВОЕЙ_ГИФКИ_2" width="260" />
 </p>
 
@@ -13,11 +13,10 @@ https://jumpshare.com/s/aK5cqvKeORKN5Fwh2fQw ====== ВЕРХНИЕ 2 ГИФКИ 
 
 <!-- ====== ТЕКСТ ПО ЦЕНТРУ ====== -->
 
-<h2 align="center">✨ Привет! Я Лера ✨</h2>
+<h2 align="center">✨ я лера, а так же мой псевдоним овечкинс ✨</h2>
 
 <p align="center">
-Мне нравится программирование, визуалы и оформление GitHub-профилей.  
-Здесь будут мои проекты, идеи и эксперименты :)
+рисую, веду тгк с творчеством и реальной жизнью
 </p>
 
 <!-- ====== РАЗДЕЛИТЕЛЬ ====== -->
