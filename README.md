@@ -29,5 +29,5 @@ https://jumpshare.com/s/aK5cqvKeORKN5Fwh2fQw ====== ВЕРХНИЕ 2 ГИФКИ 
 
 <p align="center">
   <img src="https://image2url.com/gifs/1764104785496-2ab5bb7c-4eed-46c4-b653-ec63811ec865.gif" width="180" />
-  <img src="https://image2url.com/gifs/1764104785496-2ab5bb7c-4eed-46c4-b653-ec63811ec865.gif" width="180" />
+  <img src="https://sendeyo.com/en/dec879bf00" width="180" />
 </p>
