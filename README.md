@@ -8,8 +8,7 @@ https://jumpshare.com/s/aK5cqvKeORKN5Fwh2fQw ====== ВЕРХНИЕ 2 ГИФКИ 
 
 <!-- ====== РАЗДЕЛИТЕЛЬ ====== -->
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
+<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
 </p>
 
 <!-- ====== ТЕКСТ ПО ЦЕНТРУ ====== -->
