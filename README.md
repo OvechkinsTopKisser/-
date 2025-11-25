@@ -22,7 +22,7 @@ https://jumpshare.com/s/aK5cqvKeORKN5Fwh2fQw ====== ВЕРХНИЕ 2 ГИФКИ 
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cloudy.png" />
+  <img src="https://s1.ezgif.com/tmp/ezgif-18c02c3634acb806.gif" />
 </p>
 
 <!-- ====== НИЖНИЕ 2 ГИФКИ ====== -->
