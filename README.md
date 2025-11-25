@@ -19,7 +19,8 @@ https://jumpshare.com/s/aK5cqvKeORKN5Fwh2fQw ====== ВЕРХНИЕ 2 ГИФКИ 
 рисую, веду тгк с творчеством и реальной жизнью
 </p>
 
-<!-- ====== РАЗДЕЛИТЕЛЬ ====== -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cloudy.png">
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cloudy.png" />
