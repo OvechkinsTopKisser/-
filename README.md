@@ -14,7 +14,7 @@ https://jumpshare.com/s/aK5cqvKeORKN5Fwh2fQw ====== ВЕРХНИЕ 2 ГИФКИ 
 
 <!-- ====== ТЕКСТ ПО ЦЕНТРУ ====== -->
 
-<h2 align="center">✨ я лера, а так же мой псевдоним овечкинс ✨</h2>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"> <h2 align="center"> я лера, а так же мой псевдоним овечкинс </h2>
 
 <p align="center">
 рисую, веду тгк с творчеством и реальной жизнью
