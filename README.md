@@ -1,9 +1,8 @@
 https://jumpshare.com/s/aK5cqvKeORKN5Fwh2fQw ====== ВЕРХНИЕ 2 ГИФКИ ====== -->
 
 <p align="center">
-  <img src="![Uploading oie_oie_glitters.gif…]()
-" width="200" />
-  <img src="URL_ТВОЕЙ_ГИФКИ_2" width="260" />
+  <img src="0https://jumpshare.com/s/aK5cqvKeORKN5Fwh2fQw" width="200" />
+  <img src="https://media.giphy.com/media/l0HlHFRbmaZtBRhXG/giphy.gif" width="260" />
 </p>
 
 <!-- ====== РАЗДЕЛИТЕЛЬ ====== -->
