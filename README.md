@@ -28,6 +28,6 @@ https://jumpshare.com/s/aK5cqvKeORKN5Fwh2fQw ====== ВЕРХНИЕ 2 ГИФКИ 
 <!-- ====== НИЖНИЕ 2 ГИФКИ ====== -->
 
 <p align="center">
-  <img src="URL_ТВОЕЙ_ГИФКИ_3" width="260" />
+  <img src="https://image2url.com/gifs/1764104785496-2ab5bb7c-4eed-46c4-b653-ec63811ec865.gif" width="180" />
   <img src="URL_ТВОЕЙ_ГИФКИ_4" width="260" />
 </p>
